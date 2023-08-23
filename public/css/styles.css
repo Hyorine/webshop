@@ -1,0 +1,73 @@
+*{
+    font-family: Arial, Helvetica,Verdana,Georgia;
+    font-size: 16px;
+    color: #756002 !important; 
+}
+.PageHeader{
+    background-color: rgb(25, 25, 112);
+    color: #fff;
+    padding: 10px;
+}
+.HeaderMainDiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.HeaderNavBar{
+    font-size: 16px;
+}
+.modal-body .form-group {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.modal-body .input-group {
+    width: 100%;
+}
+#logoTag {
+    height: 70px;
+}
+.ItemOperationList{
+    width: 25%;
+    background-color: rgb(25, 25, 112);
+    border-right: 5px solid #756002;
+    display: inline-block;
+}
+.ItemOperationListUL{
+    padding-top: 50px;
+}
+.Items-Right-Side{
+    display: inline-block;
+    overflow: hidden;
+    flex: 1;
+    padding-top: 50px;
+}
+.ItemOperationParentDiv{
+    display: flex;
+}
+.error-container{
+    margin-left: 10%;
+    margin-right: 10%;
+    width:75%;
+    color: red ;
+}
+.error-container h1{
+    text-align: center;
+}
+.ItemUploadForm{
+    width:90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.ItemUploadForm h1{
+    text-align: center;
+}
+.ProductIMG{
+    height:250px;
+}
+.ProductRightDiv{
+    display: inline-block;
+}
+.ProductLefttDiv{
+    display: inline-block;
+}
